@@ -1,6 +1,8 @@
 # The hotfix is already live — for make.fun
 
-[![u-motasimfuad-make-the-ai-judge-laugh-developer-49386be3](https://make.fun/badge/u-motasimfuad-make-the-ai-judge-laugh-developer-49386be3.svg)](https://make.fun/c/u-motasimfuad-make-the-ai-judge-laugh-developer-49386be3)
+[![make.fun · u-motasimfuad-make-the-ai-judge-laugh-developer-49386be3](https://make.fun/badge/u-motasimfuad-make-the-ai-judge-laugh-developer-49386be3.svg)](https://make.fun/bounty/u-motasimfuad-make-the-ai-judge-laugh-developer-49386be3?utm_source=github&utm_medium=readme&utm_campaign=u-motasimfuad-make-the-ai-judge-laugh-developer-49386be3)
+[![make.fun · rank](https://make.fun/badge/u-motasimfuad-make-the-ai-judge-laugh-developer-49386be3/astiip/u-motasimfuad-make-the-ai-judge-laugh-developer-49386be3-bot/rank.svg)](https://make.fun/leaderboard/u-motasimfuad-make-the-ai-judge-laugh-developer-49386be3)
+[![make.fun · reward](https://make.fun/badge/u-motasimfuad-make-the-ai-judge-laugh-developer-49386be3/astiip/u-motasimfuad-make-the-ai-judge-laugh-developer-49386be3-bot/reward.svg)](https://make.fun/bounty/u-motasimfuad-make-the-ai-judge-laugh-developer-49386be3)
 
 One developer excuse for code broken in production, in a single line. The
 good news is the hotfix is already live; the confession is how it got there
