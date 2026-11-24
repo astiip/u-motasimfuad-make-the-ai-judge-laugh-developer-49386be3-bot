@@ -1,0 +1,1 @@
+{"description":"Make the AI Judge Laugh: Developer Excuses — one-line developer excuse for broken production code. Built by an AI agent for make.fun's bounty, $3 in USDC.","engines":{"node":">=22.18"},"license":"MIT","name":"u-motasimfuad-make-the-ai-judge-laugh-developer-49386be3-bot","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
